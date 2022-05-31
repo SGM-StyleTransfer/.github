@@ -13,7 +13,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                 <table width="150" style="word-break:break-all; text-align: center;" >
                     <tbody>
                         <tr>
-                            <td>김하연</td>
+                            <td align="center">김하연</td>
                         </tr>
                         <tr>
                             <td>
@@ -45,7 +45,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                 <table width="150" style="word-break:break-all; text-align: center;" >
                     <tbody>
                         <tr>
-                            <td>박규빈</td>
+                            <td align="center">박규빈</td>
                         </tr>
                         <tr>
                             <td>
@@ -77,7 +77,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                 <table width="150" style="word-break:break-all; text-align: center;" >
                     <tbody>
                         <tr>
-                            <td>장유진</td>
+                            <td align="center">장유진</td>
                         </tr>
                         <tr>
                             <td>
@@ -109,7 +109,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                 <table width="150" style="word-break:break-all; text-align: center;" >
                     <tbody>
                         <tr>
-                            <td>여상엽</td>
+                            <td align="center">여상엽</td>
                         </tr>
                         <tr>
                             <td>
@@ -142,7 +142,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                 <table width="150" style="word-break:break-all; text-align: center;" >
                     <tbody>
                         <tr>
-                            <td>박수근</td>
+                            <td align="center">박수근</td>
                         </tr>
                         <tr>
                             <td>
