@@ -113,8 +113,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                         </tr>
                         <tr>
                             <td>
-                                <p style="height: 120px;" >
-                                </p>
+                                <img width="120" height="120" style="width: 120px; border-radius: 50%;" alt="image" src="https://user-images.githubusercontent.com/39655003/171341676-2389be34-8394-4e68-b793-b6b4c499ba08.png">
                             </td>
                         </tr>
                         <tr>
@@ -129,8 +128,8 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                         </tr>
                         <tr>
                             <td>
-                                <a href="https://github.com/bwmelon97">
-                                    <img src="http://img.shields.io/badge/bwmelon97-655ced?style=social&logo=github"/>
+                                <a href="https://github.com/sosick377">
+                                    <img src="http://img.shields.io/badge/sosick377-655ced?style=social&logo=github"/>
                                 </a>
                             </td>
                         </tr>
