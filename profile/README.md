@@ -129,7 +129,7 @@ AI와 Style Transfer에 관심을 갖고 있는 저희 멤버들은 Video face s
                         <tr>
                             <td>
                                 <a href="https://github.com/Sang-Yeop-Yeo">
-                                    <img src="http://img.shields.io/badge/Sang-Yeop-Yeo-655ced?style=social&logo=github"/>
+                                    <img src="http://img.shields.io/badge/Sang_Yeop_Yeo-655ced?style=social&logo=github"/>
                                 </a>
                             </td>
                         </tr>
